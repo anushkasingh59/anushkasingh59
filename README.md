@@ -44,5 +44,4 @@ AI-based recipe & grocery assistant using Gemini API.
 
 ## 🌐 Connect With Me
 
-* LinkedIn: (add link)
 * Email: [anushka091424@gmail.com](mailto:anushka091424@gmail.com)
